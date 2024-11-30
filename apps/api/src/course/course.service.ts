@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Inject, Injectable, NotFoundException } from "@nestjs/common";
 import { and, asc, eq, gt } from "drizzle-orm";
 

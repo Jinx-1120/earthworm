@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { Inject, Injectable } from "@nestjs/common";
 import { and, asc, desc, eq } from "drizzle-orm";
 

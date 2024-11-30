@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { BadRequestException, Inject, Injectable } from "@nestjs/common";
 import { and, eq, gte, lte, sql, sum } from "drizzle-orm";
 

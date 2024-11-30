@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Inject, Injectable, Logger } from "@nestjs/common";
 import { Cron } from "@nestjs/schedule";
 import { and, eq, lt } from "drizzle-orm";

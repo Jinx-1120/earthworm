@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "@paralleldrive/cuid2": "2.2.2",
-    "drizzle-orm": "^0.32.0"
+    "drizzle-orm": "0.32.0"
   }
 }

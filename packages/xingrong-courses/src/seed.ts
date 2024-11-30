@@ -87,20 +87,13 @@ const courses = fs.readdirSync(path.resolve(__dirname, "../data/courses"));
 })();
 
 function convertToChineseNumber(numStr: string): string {
-  const chineseNumbers = ["零", "一", "二", "三", "四", "五", "六", "七", "八", "九", "十"];
-  let chineseStr = "第";
-  if (parseInt(numStr) >= 10) {
-    const [tens, ones] = numStr.split("");
-    if (tens !== "1") {
-      chineseStr += chineseNumbers[parseInt(tens, 10)];
-    }
-    chineseStr += "十";
-    if (ones !== "0") {
-      chineseStr += chineseNumbers[parseInt(ones, 10)];
-    }
-  } else {
-    chineseStr += chineseNumbers[parseInt(numStr, 10)];
-  }
-  chineseStr += "课";
-  return chineseStr;
+  const titles = [
+    "",
+    "大作文，静态图首段",
+    "大作文，动态图首段",
+    "大作文，二三段",
+    "小作文 建议信",
+    "小作文 介绍信",
+  ];
+  return titles[parseInt(numStr)] ?? "";
 }

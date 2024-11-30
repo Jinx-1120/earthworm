@@ -7,10 +7,10 @@ import { course as courseSchema, statement as statementSchema } from "@earthworm
 type Statement = typeof statementSchema.$inferInsert;
 
 (async function () {
-  const coursePackId = "";
-  const courseOrder = 53;
-  const courseTitle = "";
-  const courseFileName = "";
+  const coursePackId = "nllr5n8qy7gy1b1tirtaxzss";
+  const courseOrder = 55;
+  const courseTitle = "写作";
+  const courseFileName = "56.json";
   const video = "";
 
   const [course] = await db
