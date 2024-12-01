@@ -10,6 +10,7 @@ export function setupHttp() {
   if (http) return http;
 
   const config = useRuntimeConfig();
+  console.log("config.public", config.public);
   const baseURL = config.public.apiBase as string;
 
   http = ofetch.create({

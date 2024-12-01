@@ -16,6 +16,7 @@ import { UserCourseProgressModule } from "../user-course-progress/user-course-pr
 import { UserLearningActivityModule } from "../user-learning-activity/user-learning-activity.module";
 import { UserModule } from "../user/user.module";
 
+console.log("process.env.REDIS_URL", process.env.REDIS_URL);
 @Module({
   imports: [
     GlobalModule,

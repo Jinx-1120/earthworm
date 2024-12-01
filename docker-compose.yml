@@ -18,17 +18,6 @@ services:
       retries: 5
     ports:
       - 5433:5432
-  testdb:
-    image: postgres:14-alpine
-    user: postgres
-    volumes:
-      - data:/var/lib/postgres/test-data
-    environment:
-      POSTGRES_USER: test
-      POSTGRES_PASSWORD: password
-      POSTGRES_DB: earthworm_test
-    ports:
-      - 5480:5432
   redis:
     image: redis:5-alpine
     restart: always
@@ -36,12 +25,46 @@ services:
       - data:/var/lib/redis
     ports:
       - 6379:6379
-  testRedis:
-    image: redis:5-alpine
-    volumes:
-      - data:/var/lib/test-redis
+  web:
+    build:
+      context: ./apps/client
+      args:
+        NUXT_API_BASE: http://192.168.0.11:1231/
+        NUXT_LOGTO_APP_ID: s464nkka8vr7roobvk9r3
+        NUXT_LOGTO_ENDPOINT: http://192.168.0.11:3010/
+        NUXT_BACKEND_ENDPOINT: http://192.168.0.11:1231/
+        NUXT_LOGTO_SIGN_IN_REDIRECT_URI: http://192.168.0.11:1230/callback
+        NUXT_LOGTO_SIGN_OUT_REDIRECT_URI: http://192.168.0.11:1230/
+        NUXT_HELP_DOCS_URL: https://earthworm-docs.cuixueshe.com/get-started/
+    image: earthworm_web:latest
+    restart: always
     ports:
-      - 6380:6379
+      - 1230:3000
+    environment:
+      NUXT_API_BASE: http://192.168.0.11:1231/
+      NUXT_LOGTO_APP_ID: s464nkka8vr7roobvk9r3
+      NUXT_LOGTO_ENDPOINT: http://192.168.0.11:3010/
+      NUXT_BACKEND_ENDPOINT: http://192.168.0.11:1231/
+      NUXT_LOGTO_SIGN_IN_REDIRECT_URI: http://192.168.0.11:1230/callback
+      NUXT_LOGTO_SIGN_OUT_REDIRECT_URI: http://192.168.0.11:1230/
+      NUXT_HELP_DOCS_URL: https://earthworm-docs.cuixueshe.com/get-started/
+  api_server:
+    build:
+      context: ./
+    image: earthworm_api:latest
+    restart: always
+    ports:
+      - 1231:3001
+    environment:
+      DATABASE_URL: postgres://postgres:password@192.168.0.11:5433/earthworm
+      SECRET: sjldk92#sd903mnc./xklsjdf9sdfj
+      REDIS_URL: redis://192.168.0.11:6379
+      LOGTO_CLIENT_ID: 1ummxzdeoyxhquvf14z4m
+      LOGTO_CLIENT_SECRET: rja2w7B2UXaOfu6tEW9fZHn6kNQMRjpC
+      LOGTO_M2M_API: https://default.logto.app/api
+      LOGTO_ENDPOINT: http://192.168.0.11:3010/
+      BACKEND_ENDPOINT: http://192.168.0.11:1231/
+
   logto:
     restart: always
     depends_on:

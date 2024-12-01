@@ -1,0 +1,10 @@
+node_modules
+*.zip
+*.pdf
+*.log
+dist
+.nuxt
+.output
+.env
+.env.*
+/apps/api/.env
