@@ -1,13 +1,63 @@
 [
   {
+    "chinese": "关于您的请求",
+    "english": "with reference to your request",
+    "soundmark": "/wɪð/ /ˈrɛfrəns/ /tu/ /jʊr/ /rɪˈkwɛst/"
+  },
+  {
+    "chinese": "我写这封邮件是为了",
+    "english": "I am writing this email to",
+    "soundmark": "/aɪ/ /æm/ /ˈraɪtɪŋ/ /ðɪs/ /ˈiːmeɪl/ /tuː/"
+  },
+  {
+    "chinese": "做某事",
+    "english": "do something",
+    "soundmark": "/duː/ /ˈsʌmθɪŋ/"
+  },
+  {
     "chinese": "关于您的请求，我写这封邮件是为了做某事",
     "english": "With reference to your request, I am writing this email to do something",
     "soundmark": "/wɪð/ /ˈrɛfrəns/ /tu/ /jʊr/ /rɪˈkwɛst/, /aɪ/ /æm/ /ˈraɪtɪŋ/ /ðɪs/ /ˈiːmeɪl/ /tuː/ /duː/ /ˈsʌmθɪŋ/"
   },
   {
+    "chinese": "细节",
+    "english": "details",
+    "soundmark": "/dɪˈteɪlz/"
+  },
+  {
+    "chinese": "关于某事",
+    "english": "with regard to something",
+    "soundmark": "/wɪð/ /rɪˈɡɑrd/ /tu/ /ˈsʌmθɪŋ/"
+  },
+  {
+    "chinese": "在下面呈现",
+    "english": "are presented below",
+    "soundmark": "/ɑr/ /prɪˈzɛntɪd/ /bɪˈloʊ/"
+  },
+  {
     "chinese": "相关细节在下面呈现",
     "english": "Details with regard to something are presented below",
     "soundmark": "/dɪˈteɪlz/ /wɪð/ /rɪˈɡɑrd/ /tu/ /ˈsʌmθɪŋ/ /ɑr/ /prɪˈzɛntɪd/ /bɪˈloʊ/"
+  },
+  {
+    "chinese": "首先",
+    "english": "firstly",
+    "soundmark": "/ˈfɜrstli/"
+  },
+  {
+    "chinese": "你被期望",
+    "english": "you are expected to",
+    "soundmark": "/ju/ /ɑr/ /ɪkˈspɛktɪd/ /tu/"
+  },
+  {
+    "chinese": "收集相关信息",
+    "english": "gather information related to",
+    "soundmark": "/ˈɡæðər/ /ˌɪnfərˈmeɪʃən/ /rɪˈleɪtɪd/ /tu/"
+  },
+  {
+    "chinese": "通过使用大量平台",
+    "english": "by using a host of platforms",
+    "soundmark": "/baɪ/ /ˈjuzɪŋ/ /ə/ /hoʊst/ /ʌv/ /ˈplætfɔrmz/"
   },
   {
     "chinese": "例如搜索引擎、在线图书馆和网站",
@@ -20,14 +70,64 @@
     "soundmark": "/ˈfɜrstli/, /ju/ /ɑr/ /ɪkˈspɛktɪd/ /tu/ /ˈɡæðər/ /ˌɪnfərˈmeɪʃən/ /rɪˈleɪtɪd/ /tu/ /ˈsʌmθɪŋ/ /baɪ/ /ˈjuzɪŋ/ /ə/ /hoʊst/ /ʌv/ /ˈplætfɔrmz/, /sʌtʃ/ /æz/ /sɜrtʃ/ /ˈɛndʒɪnz/, /ˈɔnlaɪn/ /ˈlaɪbrɛriz/ /ænd/ /ˈwɛbsaɪts/"
   },
   {
+    "chinese": "其次",
+    "english": "secondly",
+    "soundmark": "/ˈsɛkəndli/"
+  },
+  {
+    "chinese": "建议你",
+    "english": "it is advisable for you",
+    "soundmark": "/ɪt/ /ɪz/ /ədˈvaɪzəbəl/ /fɔr/ /ju/"
+  },
+  {
+    "chinese": "找一个伙伴",
+    "english": "to find a partner",
+    "soundmark": "/tu/ /faɪnd/ /ə/ /ˈpɑrtnər/"
+  },
+  {
+    "chinese": "在关键时刻能给你及时支持的",
+    "english": "who can offer you timely support at critical moments",
+    "soundmark": "/hu/ /kæn/ /ˈɔfər/ /ju/ /ˈtaɪmli/ /səˈpɔrt/ /æt/ /ˈkrɪtɪkəl/ /ˈmoʊmənts/"
+  },
+  {
     "chinese": "其次，建议你找一个能在关键时刻给你及时支持的伙伴",
     "english": "Secondly, it is advisable for you to find a partner, who can offer you timely support at critical moments",
     "soundmark": "/ˈsɛkəndli/, /ɪt/ /ɪz/ /ədˈvaɪzəbəl/ /fɔr/ /ju/ /tu/ /faɪnd/ /ə/ /ˈpɑrtnər/, /hu/ /kæn/ /ˈɔfər/ /ju/ /ˈtaɪmli/ /səˈpɔrt/ /æt/ /ˈkrɪtɪkəl/ /ˈmoʊmənts/"
   },
   {
+    "chinese": "第三",
+    "english": "thirdly",
+    "soundmark": "/ˈθɜrdli/"
+  },
+  {
+    "chinese": "制定计划是必要的",
+    "english": "creating a schedule is necessary",
+    "soundmark": "/kriˈeɪtɪŋ/ /ə/ /ˈʃɛdʒul/ /ɪz/ /ˈnɛsəsɛri/"
+  },
+  {
+    "chinese": "因为它有助于确保效率",
+    "english": "as it helps to ensure productivity",
+    "soundmark": "/æz/ /ɪt/ /hɛlps/ /tu/ /ɪnˈʃʊr/ /ˌprɑdəkˈtɪvəti/"
+  },
+  {
     "chinese": "第三，制定计划是必要的，因为它有助于确保效率",
     "english": "Thirdly, creating a schedule is necessary, as it helps to ensure productivity",
     "soundmark": "/ˈθɜrdli/, /kriˈeɪtɪŋ/ /ə/ /ˈʃɛdʒul/ /ɪz/ /ˈnɛsəsɛri/, /æz/ /ɪt/ /hɛlps/ /tu/ /ɪnˈʃʊr/ /ˌprɑdəkˈtɪvəti/"
+  },
+  {
+    "chinese": "政府被期望",
+    "english": "the government is expected",
+    "soundmark": "/ðə/ /ˈɡʌvərnmənt/ /ɪz/ /ɪkˈspɛktɪd/"
+  },
+  {
+    "chinese": "实施有效政策",
+    "english": "to enforce effective policies",
+    "soundmark": "/tu/ /ɪnˈfɔrs/ /ɪˈfɛktɪv/ /ˈpɑləsiz/"
+  },
+  {
+    "chinese": "解决某事",
+    "english": "to address something",
+    "soundmark": "/tu/ /əˈdrɛs/ /ˈsʌmθɪŋ/"
   },
   {
     "chinese": "政府被期望实施有效政策来解决某事",
@@ -50,14 +150,39 @@
     "soundmark": "/ɪt/ /ɪz/ /ədˈvaɪzəbəl/ /tu/ /kənˈsʌlt/ /wɪð/ /ˈɛkspɜrts/ /ɪn/ /ðə/ /fild/, /sɪns/ /ðeɪ/ /kæn/ /prəˈvaɪd/ /kənˈstrʌktɪv/ /ˈɡaɪdəns/"
   },
   {
+    "chinese": "我希望",
+    "english": "I hope",
+    "soundmark": "/aɪ/ /hoʊp/"
+  },
+  {
+    "chinese": "你会发现我的建议有帮助",
+    "english": "you will find my advice helpful",
+    "soundmark": "/ju/ /wɪl/ /faɪnd/ /maɪ/ /ədˈvaɪs/ /ˈhɛlpfəl/"
+  },
+  {
     "chinese": "我希望你会发现我的建议有帮助",
     "english": "I hope you will find my advice helpful",
     "soundmark": "/aɪ/ /hoʊp/ /ju/ /wɪl/ /faɪnd/ /maɪ/ /ədˈvaɪs/ /ˈhɛlpfəl/"
   },
   {
+    "chinese": "如果你有任何问题",
+    "english": "if you have any questions",
+    "soundmark": "/ɪf/ /ju/ /hæv/ /ˈɛni/ /ˈkwɛstʃənz/"
+  },
+  {
+    "chinese": "请随时告诉我",
+    "english": "please feel free to let me know",
+    "soundmark": "/pliz/ /fil/ /fri/ /tu/ /lɛt/ /mi/ /noʊ/"
+  },
+  {
     "chinese": "如果你有任何问题，请随时告诉我",
     "english": "If you have any questions, please feel free to let me know",
     "soundmark": "/ɪf/ /ju/ /hæv/ /ˈɛni/ /ˈkwɛstʃənz/, /pliz/ /fil/ /fri/ /tu/ /lɛt/ /mi/ /noʊ/"
+  },
+  {
+    "chinese": "祝你一切顺利",
+    "english": "wish you all the best",
+    "soundmark": "/wɪʃ/ /ju/ /ɔl/ /ðə/ /bɛst/"
   },
   {
     "chinese": "祝你一切顺利！",

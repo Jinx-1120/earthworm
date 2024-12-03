@@ -1,23 +1,103 @@
 [
 	{
+			"chinese": "可以观察到",
+			"english": "can be observed",
+			"soundmark": "/kæn/ /bi/ /əbˈzɜrvd/"
+	},
+	{
+			"chinese": "在图表中",
+			"english": "in the chart",
+			"soundmark": "/ɪn/ /ðə/ /tʃɑrt/"
+	},
+	{
+			"chinese": "在图表中可以观察到",
+			"english": "can be observed in the chart",
+			"soundmark": "/kæn/ /bi/ /əbˈzɜrvd/ /ɪn/ /ðə/ /tʃɑrt/"
+	},
+	{
+			"chinese": "非常",
+			"english": "highly",
+			"soundmark": "/ˈhaɪli/"
+	},
+	{
+			"chinese": "引人注目的",
+			"english": "conspicuous",
+			"soundmark": "/kənˈspɪkjuəs/"
+	},
+	{
+			"chinese": "现象",
+			"english": "phenomenon",
+			"soundmark": "/fəˈnɑmənɑn/"
+	},
+	{
+			"chinese": "非常引人注目的现象",
+			"english": "highly conspicuous phenomenon",
+			"soundmark": "/ˈhaɪli/ /kənˈspɪkjuəs/ /fəˈnɑmənɑn/"
+	},
+	{
 			"chinese": "在图表中可以观察到一个非常引人注目的现象",
 			"english": "a highly conspicuous phenomenon can be observed in the chart",
 			"soundmark": "/ə/ /ˈhaɪli/ /kənˈspɪkjuəs/ /fəˈnɑmənɑn/ /kæn/ /bi/ /əbˈzɜrvd/ /ɪn/ /ðə/ /tʃɑrt/"
 	},
 	{
-		"chinese": "在图表中可以观察到",
-		"english": "can be observed in the chart",
-		"soundmark": "/kæn/ /bi/ /əbˈzɜrvd/ /ɪn/ /ðə/ /tʃɑrt/"
-},
+			"chinese": "最显著的",
+			"english": "the most significant",
+			"soundmark": "/ðə/ /moʊst/ /sɪɡˈnɪfɪkənt/"
+	},
+	{
+			"chinese": "部分",
+			"english": "portion",
+			"soundmark": "/ˈpɔrʃən/"
+	},
+	{
+			"chinese": "数据中",
+			"english": "among the data",
+			"soundmark": "/əˈmʌŋ/ /ðə/ /ˈdeɪtə/"
+	},
+	{
+			"chinese": "占",
+			"english": "stands at",
+			"soundmark": "/stændz/ /æt/"
+	},
 	{
 			"chinese": "数据中最显著的部分占XX%",
 			"english": "the most significant portion among the data stands at XX%",
 			"soundmark": "/ðə/ /moʊst/ /sɪɡˈnɪfɪkənt/ /ˈpɔrʃən/ /əˈmʌŋ/ /ðə/ /ˈdeɪtə/ /stændz/ /æt/"
 	},
 	{
+			"chinese": "紧随其后的是",
+			"english": "Following closely is",
+			"soundmark": "/ˈfɑloʊɪŋ/ /ˈkloʊsli/ /ɪz/"
+	},
+	{
+			"chinese": "另一个类别",
+			"english": "another category",
+			"soundmark": "/əˈnʌðər/ /ˈkætəˌɡɔri/"
+	},
+	{
+			"chinese": "份额",
+			"english": "share",
+			"soundmark": "/ʃɛr/"
+	},
+	{
 			"chinese": "紧随其后的是另一个类别，其份额为XX%",
 			"english": "Following closely is another category with a XX% share",
 			"soundmark": "/ˈfɑloʊɪŋ/ /ˈkloʊsli/ /ɪz/ /əˈnʌðər/ /ˈkætəˌɡɔri/ /wɪð/ /ə/ /ʃɛr/"
+	},
+	{
+			"chinese": "此外",
+			"english": "in addition",
+			"soundmark": "/ɪn/ /əˈdɪʃən/"
+	},
+	{
+			"chinese": "其余的比例",
+			"english": "the remaining proportions",
+			"soundmark": "/ðə/ /rɪˈmeɪnɪŋ/ /prəˈpɔrʃənz/"
+	},
+	{
+			"chinese": "分别是",
+			"english": "are distributed at",
+			"soundmark": "/ɑr/ /dɪˈstrɪbjutɪd/ /æt/"
 	},
 	{
 			"chinese": "其余的比例分别是XX%、XX%和XX%",

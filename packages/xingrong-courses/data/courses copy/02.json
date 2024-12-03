@@ -1,5 +1,15 @@
 [
   {
+    "chinese": "一个特别值得注意的现象",
+    "english": "a particularly striking phenomenon",
+    "soundmark": "/ə/ /pərˈtɪkjələrli/ /ˈstraɪkɪŋ/ /fəˈnɑmənɑn/"
+  },
+  {
+    "chinese": "从图表中明显可见",
+    "english": "is evident from the chart",
+    "soundmark": "/ɪz/ /ˈɛvɪdənt/ /frʌm/ /ðə/ /tʃɑrt/"
+  },
+  {
     "chinese": "一个特别值得注意的现象从图表中明显可见",
     "english": "A particularly striking phenomenon is evident from the chart",
     "soundmark": "/ə/ /pərˈtɪkjələrli/ /ˈstraɪkɪŋ/ /fəˈnɑmənɑn/ /ɪz/ /ˈɛvɪdənt/ /frʌm/ /ðə/ /tʃɑrt/"
@@ -18,6 +28,21 @@
     "chinese": "变化最显著的数据集从XXX上升/下降到XXX",
     "english": "The one data set with the most significant change has risen/fallen from XXX to XXX",
     "soundmark": "/ðə/ /wʌn/ /ˈdeɪtə/ /sɛt/ /wɪð/ /ðə/ /moʊst/ /sɪɡˈnɪfɪkənt/ /tʃeɪndʒ/ /hæz/ /ˈrɪzən/ˈfɔlən/ /frʌm/ /tu/"
+  },
+  {
+    "chinese": "另一个数据集",
+    "english": "another data set",
+    "soundmark": "/əˈnʌðər/ /ˈdeɪtə/ /sɛt/"
+  },
+  {
+    "chinese": "表现出较不明显的变化",
+    "english": "exhibits a less pronounced variation",
+    "soundmark": "/ɪɡˈzɪbɪts/ /ə/ /lɛs/ /prəˈnaʊnst/ /ˌvɛriˈeɪʃən/"
+  },
+  {
+    "chinese": "在同一时期",
+    "english": "over the same period",
+    "soundmark": "/ˈoʊvər/ /ðə/ /seɪm/ /ˈpɪriəd/"
   },
   {
     "chinese": "从XXX增加/减少到XXX",
