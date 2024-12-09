@@ -1,32 +1,57 @@
 [
-	{
-			"chinese": "在图表中可以观察到一个非常引人注目的现象",
-			"english": "a highly conspicuous phenomenon can be observed in the chart",
-			"soundmark": "/ə/ /ˈhaɪli/ /kənˈspɪkjuəs/ /fəˈnɑmənɑn/ /kæn/ /bi/ /əbˈzɜrvd/ /ɪn/ /ðə/ /tʃɑrt/"
-	},
-	{
-		"chinese": "在图表中可以观察到",
-		"english": "can be observed in the chart",
-		"soundmark": "/kæn/ /bi/ /əbˈzɜrvd/ /ɪn/ /ðə/ /tʃɑrt/"
-},
-	{
-			"chinese": "数据中最显著的部分占XX%",
-			"english": "the most significant portion among the data stands at XX%",
-			"soundmark": "/ðə/ /moʊst/ /sɪɡˈnɪfɪkənt/ /ˈpɔrʃən/ /əˈmʌŋ/ /ðə/ /ˈdeɪtə/ /stændz/ /æt/"
-	},
-	{
-			"chinese": "紧随其后的是另一个类别，其份额为XX%",
-			"english": "Following closely is another category with a XX% share",
-			"soundmark": "/ˈfɑloʊɪŋ/ /ˈkloʊsli/ /ɪz/ /əˈnʌðər/ /ˈkætəˌɡɔri/ /wɪð/ /ə/ /ʃɛr/"
-	},
-	{
-			"chinese": "其余的比例分别是XX%、XX%和XX%",
-			"english": "the remaining proportions are distributed at XX%, XX%, and XX% respectively",
-			"soundmark": "/ðə/ /rɪˈmeɪnɪŋ/ /prəˈpɔrʃənz/ /ɑr/ /dɪˈstrɪbjutɪd/ /æt/ /rɪˈspɛktɪvli/"
-	},
-	{
-		"chinese": "在图表中可以观察到一个非常引人注目的现象。所有数据中最显著的一项占XX%。紧随其后的是另一个类别，其份额为XX%。此外，其余的比例分别为XX%、XX%和XX%。",
-		"english": "A highly conspicuous phenomenon can be observed in the chart. The most significant portion among the data stands at XX%. Following closely is another category with a XX% share. In addition, the remaining proportions are distributed at XX%, XX%, and XX% respectively.",
-		"soundmark": "/ə/ /ˈhaɪli/ /kənˈspɪkjuəs/ /fəˈnɑmənɑn/ /kæn/ /bi/ /əbˈzɜrvd/ /ɪn/ /ðə/ /tʃɑrt/. /ðə/ /moʊst/ /sɪɡˈnɪfɪkənt/ /ˈpɔrʃən/ /əˈmʌŋ/ /ðə/ /ˈdeɪtə/ /stændz/ /æt/. /ˈfɑloʊɪŋ/ /ˈkloʊsli/ /ɪz/ /əˈnʌðər/ /ˈkætəˌɡɔri/ /wɪð/ /ə/ /ʃɛr/. /ɪn/ /əˈdɪʃən/, /ðə/ /rɪˈmeɪnɪŋ/ /prəˈpɔrʃənz/ /ɑr/ /dɪˈstrɪbjutɪd/ /æt/ /rɪˈspɛktɪvli/."
-	}
+  {
+    "chinese": "在图表中显示存在xx方面的差异。",
+    "english": "It is shown in the chart that there exist differences in terms of xx.",
+    "soundmark": "/ɪt/ /ɪz/ /ʃoʊn/ /ɪn/ /ðə/ /tʃɑrt/ /ðæt/ /ðɛr/ /ɪgˈzɪst/ /ˈdɪfərənsɪz/ /ɪn/ /tɜrmz/ /əv/ /xx/"
+  },
+  {
+    "chinese": "具体来说，A的数量达到xx，是所有组中最高的一个。",
+    "english": "Specifically, the number of A amounts to xx, ranking as the highest one of all the groups.",
+    "soundmark": "/spɪˈsɪfɪkli/, /ðə/ /ˈnʌmbər/ /ʌv/ /eɪ/ /əˈmaʊnts/ /tu/ /xx/, /ˈræŋkɪŋ/ /æz/ /ðə/ /ˈhaɪɪst/ /wʌn/ /ʌv/ /ɔl/ /ðə/ /ɡruːps/"
+  },
+  {
+    "chinese": "紧随其后的是B的数字，达到了xx。",
+    "english": "Following closely is the figure of B, which reaches xx.",
+    "soundmark": "/ˈfɑloʊɪŋ/ /ˈkloʊsli/ /ɪz/ /ðə/ /ˈfɪɡjər/ /ʌv/ /biː/, /wɪtʃ/ /riːtʃɪz/ /xx/"
+  },
+  {
+    "chinese": "相比之下，其余的组分别是xx和xx。",
+    "english": "By contrast, the remaining groups constitute xx and xx respectively.",
+    "soundmark": "/baɪ/ /ˈkɑntrɑːst/, /ðə/ /rɪˈmeɪnɪŋ/ /ɡruːps/ /ˈkɒnstɪtuːt/ /xx/ /ænd/ /xx/ /rɪˈspɛktɪvli/"
+  },
+  {
+    "chinese": "显然，许多因素促成了某事；在我看来，以下两点值得讨论。",
+    "english": "Apparently, a host of factors contribute to sth; in my view, the following two are worth discussing",
+    "soundmark": "/əˈpɪərəntli/, /ə/ /hoʊst/ /ʌv/ /ˈfæktərz/ /kənˈtrɪbjut/ /tuː/ /sʌmθɪŋ/; /ɪn/ /maɪ/ /vjuː/, /ðə/ /ˈfɒloʊɪŋ/ /tuː/ /ɑːr/ /wɜːθ/ /dɪˈskʌsɪŋ/"
+  },
+  {
+    "chinese": "经济发展导致了这一现象。与早期的一代不同，现代人享受着更好的生活水平，因此可以xx。",
+    "english": "Economic advancement has led to this phenomenon. Different from earlier generations, people in the modern world enjoy better living standards and can therefore xx",
+    "soundmark": "/ˌiːkəˈnɑmɪk/ /ədˈvænsmənt/ /hæz/ /lɛd/ /tuː/ /ðɪs/ /fəˈnɑmənən/. /ˈdɪfərənt/ /frʌm/ /ˈɜːrli/ /ˌɡrænˈeɪʃənz/, /ˈpiːpl/ /ɪn/ /ðə/ /ˈmɑːdərn/ /wɜːrld/ /ɪnˈdʒɔɪ/ /ˈbɛtər/ /ˈlɪvɪŋ/ /ˈstændərdz/ /ænd/ /kæn/ /ˈðɛrˌfɔːr/ /xx/"
+  },
+  {
+    "chinese": "这一趋势可以追溯到政府干预。事实上，政府实施了几项有效政策，这些政策鼓励人们xx。",
+    "english": "This trend can be traced back to government intervention. In fact, the government has enforced several effective policies, which encourage people to xx",
+    "soundmark": "/ðɪs/ /trɛnd/ /kæn/ /bi/ /treɪst/ /bæk/ /tuː/ /ˈɡʌvərnmənt/ /ˌɪntərˈvɛnʃən/. /ɪn/ /fækt/, /ðə/ /ˈɡʌvərnmənt/ /hæz/ /ɪnˈfɔːrsd/ /ˈsɛvrəl/ /ɪˈfɛktɪv/ /ˈpɑːləsiːz/, /wɪtʃ/ /ɪnˈkʌrɪdʒ/ /ˈpiːpl/ /tuː/ /xx/"
+  },
+  {
+    "chinese": "这种局势与媒体日益增长的影响力有关。通过各种渠道，如互联网，媒体激发了众多人xx。",
+    "english": "such a situation is related to the growing influence of media. Through various channels such as the Internet, the media has motivated numerous people to xx",
+    "soundmark": "/sʌtʃ/ ə/ /ˌsɪtʃuˈeɪʃən/ /ɪz/ /rɪˈleɪtɪd/ /tuː/ /ðə/ /ˈɡroʊɪŋ/ /ˈɪnfluəns/ /ʌv/ /ˈmiːdiə/. /θruː/ /ˈveəriəs/ /ˈtʃænəlz/ /sʌʧ/ /æz/ /ðə/ /ˈɪntərnɛt/, /ðə/ /ˈmiːdiə/ /hæz/ /ˈmoʊtɪˌveɪtɪd/ /ˈnʌmərəs/ /ˈpiːpl/ /tuː/ /xx/"
+  },
+  {
+    "chinese": "人们态度的转变是这一现象的驱动力。根据最近的一项调查，越来越多的人现在更倾向于xx。",
+    "english": "The shift of people's attitudes serves as a driving force for this phenomenon. According to a recent survey, an increasing number of people nowadays prefer to xx",
+    "soundmark": "/ðə/ /ʃɪft/ /ʌv/ /ˈpiːplz/ /ˈætɪtʃʊdz/ /sɜːrvz/ /æz/ /ə/ /ˈdraɪvɪŋ/ /fɔːrs/ /fɔːr/ /ðɪs/ /fəˈnɑmənən/. /əˈkɔːrdɪŋ/ /tuː/ /ə/ /ˈriːsənt/ /ˈsɜːrˌveɪ/, /ən/ /ɪnˈkriːsɪŋ/ /ˈnʌmbər/ /ʌv/ /ˈpiːpl/ /ˈnɑːwədeɪz/ /prɪˈfɜːr/ /tuː/ /xx/"
+  },
+  {
+    "chinese": "xx有助于丰富人们的生活。参与这项活动使人们能够探索新领域，更好地理解世界。",
+    "english": "xx helps enrich people's lives. Engaging in this activity enables people to explore new areas and gain a better understanding of the world.",
+    "soundmark": "/xx/ /hɛlps/ ɪnˈrɪʧ/ /ˈpiːplz/ /laɪvz/. /ɪnɡeɪʒɪŋ/ /ɪn/ /ðɪs/ /ækˈtɪvɪti/ /ɪˈneɪblz/ /ˈpiːpl/ /tuː/ /ɪkˈsplɔːr/ /njuː/ /ˈɛəriəz/ /ænd/ /ɡeɪn/ /ə/ /ˈbɛtər/ /ˌʌndərˈstændɪŋ/ /ʌv/ /ðə/ /wɜːrld/"
+  },
+  {
+    "chinese": "总之，我们可以得出结论，图表传达的信息是必然发生的。我坚信它将持续存在，长期影响个人和整个社会。",
+    "english": "To sum up, we may draw the conclusion that the message conveyed by the chart is bound to happen. I firmly believe that it will persist, affecting both the individuals and the whole society in the long term.",
+    "soundmark": "/tuː/ /sʌm/ /ʌp/, /wiː/ /meɪ/ /drɔː/ /ðə/ /kənˈkluːʒən/ /ðæt/ /ðə/ /ˈmɛsɪʤ/ /kənˈveɪdɪd/ /baɪ/ /ðə/ /tʃɑrt/ /ɪz/ /baʊnd/ /tuː/ /ˈhæpən/. /aɪ/ /ˈfɜːrmli/ /bɪˈliːv/ /ðæt/ /ɪt/ /wɪl/ /pərˈsɪst/, /əˈfɛktɪŋ/ /boʊθ/ /ðə/ /ˌɪndɪˈvɪdʒuəlz/ /ænd/ /ðə/ /hoʊl/ /səˈsaɪəti/ /ɪn/ /ðə/ /lɔːŋ/ /tɜːrm/"
+  }
 ]

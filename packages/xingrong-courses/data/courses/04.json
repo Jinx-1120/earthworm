@@ -1,67 +1,42 @@
 [
   {
-    "chinese": "关于您的请求，我写这封邮件是为了做某事",
-    "english": "With reference to your request, I am writing this email to do something",
-    "soundmark": "/wɪð/ /ˈrɛfrəns/ /tu/ /jʊr/ /rɪˈkwɛst/, /aɪ/ /æm/ /ˈraɪtɪŋ/ /ðɪs/ /ˈiːmeɪl/ /tuː/ /duː/ /ˈsʌmθɪŋ/"
+    "chinese": "我正在写这封电子邮件来告知某事。以下是关于某事的细节。",
+    "english": "I am writing this email to sth. Details with regard to sth are presented below.",
+    "soundmark": "/aɪ/ /æm/ /ˈraɪtɪŋ/ /ðɪs/ /ˈiːmeɪl/ /tuː/ /sʌmθɪŋ/. /ˈdɛtəls/ /wɪð/ /rɪˈɡɑːrd/ /tuː/ /sʌmθɪŋ/ /ɑːr/ /prɪˈzɛntɪd/ /ˈbɛloʊ/"
   },
   {
-    "chinese": "相关细节在下面呈现",
-    "english": "Details with regard to something are presented below",
-    "soundmark": "/dɪˈteɪlz/ /wɪð/ /rɪˈɡɑrd/ /tu/ /ˈsʌmθɪŋ/ /ɑr/ /prɪˈzɛntɪd/ /bɪˈloʊ/"
+    "chinese": "首先，活动将于2025年5月24日在图书馆前举行。",
+    "english": "Firstly, the event will take place on May 24, 2025 in front of the library.",
+    "soundmark": "/ˈfɜːrstwaɪz/, /ðə/ /ɪˈvɛnt/ /wɪl/ /teɪk/ /pleɪs/ /ɒn/ /meɪ/ /24/, /2025/ /ɪn/ /frʌnt/ /ʌv/ /ðə/ /ˈlaɪbrəri/"
   },
   {
-    "chinese": "例如搜索引擎、在线图书馆和网站",
-    "english": "such as search engines, online libraries and websites",
-    "soundmark": "/sʌtʃ/ /æz/ /sɜrtʃ/ /ˈɛndʒɪnz/, /ˈɔnlaɪn/ /ˈlaɪbrɛriz/ /ænd/ /ˈwɛbsaɪts/"
+    "chinese": "它以几项活动为特色，以加深参与者对'最佳时机最佳生活'的理解。",
+    "english": "It is characterized by several activities so as to deepen attendees’ understanding of 'Best time Best Life'",
+    "soundmark": "/ɪt/ /ɪz/ /ˈkærəktəraɪzd/ /baɪ/ /ˈsɛvrəl/ /ækˈtɪvɪti/ /soʊ/ /æz/ /tuː/ /ˈdipən/ /əˈtɛndəz/ /ˌʌndərˈstændɪŋ/ /ʌv/ /'Best/ /taɪm/ /Best/ /laɪf/"
   },
   {
-    "chinese": "首先，你被期望通过使用搜索引擎、在线图书馆和网站等大量平台来收集相关信息",
-    "english": "Firstly, you are expected to gather information related to something by using a host of platforms, such as search engines, online libraries and websites",
-    "soundmark": "/ˈfɜrstli/, /ju/ /ɑr/ /ɪkˈspɛktɪd/ /tu/ /ˈɡæðər/ /ˌɪnfərˈmeɪʃən/ /rɪˈleɪtɪd/ /tu/ /ˈsʌmθɪŋ/ /baɪ/ /ˈjuzɪŋ/ /ə/ /hoʊst/ /ʌv/ /ˈplætfɔrmz/, /sʌtʃ/ /æz/ /sɜrtʃ/ /ˈɛndʒɪnz/, /ˈɔnlaɪn/ /ˈlaɪbrɛriz/ /ænd/ /ˈwɛbsaɪts/"
+    "chinese": "其次，参与者将有机会做某事，这将使他们能够探索新领域并扩展他们的知识范围。",
+    "english": "Secondly, the participants will have the opportunity to do sth, which will enable them to explore new areas and expand their scope of knowledge.",
+    "soundmark": "/ˈsɛkəndli/, /ðə/ /pɑːrˈtɪsɪpənts/ /wɪl/ /hæv/ /ðə/ /ˌɒpərˈtjuːnɪti/ /tuː/ /duː/ /sʌmθɪŋ/, /wɪʧ/ /wɪl/ /ɪˈneɪbl/ /ðɛm/ /tuː/ /ɪkˈsplɔːr/ /njuː/ /ˈɛəriəz/ /ænd/ /ɪkˈspænd/ /ðɛr/ /skoʊp/ /ʌv/ /ˈnɑːlɪʤ/"
   },
   {
-    "chinese": "其次，建议你找一个能在关键时刻给你及时支持的伙伴",
-    "english": "Secondly, it is advisable for you to find a partner, who can offer you timely support at critical moments",
-    "soundmark": "/ˈsɛkəndli/, /ɪt/ /ɪz/ /ədˈvaɪzəbəl/ /fɔr/ /ju/ /tu/ /faɪnd/ /ə/ /ˈpɑrtnər/, /hu/ /kæn/ /ˈɔfər/ /ju/ /ˈtaɪmli/ /səˈpɔrt/ /æt/ /ˈkrɪtɪkəl/ /ˈmoʊmənts/"
+    "chinese": "第三，将组织一次团队合影，以使这个场合更加难忘。",
+    "english": "Thirdly, a team photo session will be organized to make the occasion more unforgettable.",
+    "soundmark": "/ˈθɜːrdli/, /ə/ /tiːm/ /ˈfoʊtoʊ/ /ˈsɛʃən/ /wɪl/ /bi/ /ˈɔːrɡənaɪzd/ /tuː/ /meɪk/ /ðə/ /əˈkeɪʒən/ /mɔːr/ /ʌnˈfɔrɡɪtəbl/"
   },
   {
-    "chinese": "第三，制定计划是必要的，因为它有助于确保效率",
-    "english": "Thirdly, creating a schedule is necessary, as it helps to ensure productivity",
-    "soundmark": "/ˈθɜrdli/, /kriˈeɪtɪŋ/ /ə/ /ˈʃɛdʒul/ /ɪz/ /ˈnɛsəsɛri/, /æz/ /ɪt/ /hɛlps/ /tu/ /ɪnˈʃʊr/ /ˌprɑdəkˈtɪvəti/"
+    "chinese": "首先，由于其非凡的品质和独特的特征，它备受推崇。",
+    "english": "Firstly, it is highly regarded because of its extraordinary quality and unique characteristics.",
+    "soundmark": "/ˈfɜːrstwaɪz/, /ɪt/ /ɪz/ /ˈhaɪli/ /rɪˈɡɑːrdɪd/ /bɪˈkʌz/ /ʌv/ /ɪts/ /ɪkˈstrɔːrdənri/ /ˈkwɑːlɪti/ /ænd/ /juˈniːk/ /ˌkærəktərˈɪstɪks/"
   },
   {
-    "chinese": "政府被期望实施有效政策来解决某事",
-    "english": "The government is expected to enforce effective policies to address something",
-    "soundmark": "/ðə/ /ˈɡʌvərnmənt/ /ɪz/ /ɪkˈspɛktɪd/ /tu/ /ɪnˈfɔrs/ /ɪˈfɛktɪv/ /ˈpɑləsiz/ /tu/ /əˈdrɛs/ /ˈsʌmθɪŋ/"
+    "chinese": "其次，它与其他事物的区别在于其巨大的价值和在世界上的高地位。",
+    "english": "Secondly, what distinguishes it from others is its immense values, together with its high status in the world",
+    "soundmark": "/ˈsɛkəndli/, /wɑːt/ /ˈdɪstɪŋɡwɪʃɪz/ /ɪt/ /frʌm/ /ˈʌðərz/ /ɪz/ /ɪts/ /ɪˈmɛns/ /ˈvæljuːz/, /təˈɡɛðər/ /wɪð/ /ɪts/ /haɪ/ /ˈstætəs/ /ɪn/ /ðə/ /wɜːrld/"
   },
   {
-    "chinese": "建议咨询该领域的专家",
-    "english": "it is advisable to consult with experts in the field",
-    "soundmark": "/ɪt/ /ɪz/ /ədˈvaɪzəbəl/ /tu/ /kənˈsʌlt/ /wɪð/ /ˈɛkspɜrts/ /ɪn/ /ðə/ /fild/"
-  },
-  {
-    "chinese": "因为他们能提供建设性的指导",
-    "english": "since they can provide constructive guidance",
-    "soundmark": "/sɪns/ /ðeɪ/ /kæn/ /prəˈvaɪd/ /kənˈstrʌktɪv/ /ˈɡaɪdəns/"
-  },
-  {
-    "chinese": "建议咨询该领域的专家，因为他们能提供建设性的指导",
-    "english": "It is advisable to consult with experts in the field, since they can provide constructive guidance",
-    "soundmark": "/ɪt/ /ɪz/ /ədˈvaɪzəbəl/ /tu/ /kənˈsʌlt/ /wɪð/ /ˈɛkspɜrts/ /ɪn/ /ðə/ /fild/, /sɪns/ /ðeɪ/ /kæn/ /prəˈvaɪd/ /kənˈstrʌktɪv/ /ˈɡaɪdəns/"
-  },
-  {
-    "chinese": "我希望你会发现我的建议有帮助",
-    "english": "I hope you will find my advice helpful",
-    "soundmark": "/aɪ/ /hoʊp/ /ju/ /wɪl/ /faɪnd/ /maɪ/ /ədˈvaɪs/ /ˈhɛlpfəl/"
-  },
-  {
-    "chinese": "如果你有任何问题，请随时告诉我",
-    "english": "If you have any questions, please feel free to let me know",
-    "soundmark": "/ɪf/ /ju/ /hæv/ /ˈɛni/ /ˈkwɛstʃənz/, /pliz/ /fil/ /fri/ /tu/ /lɛt/ /mi/ /noʊ/"
-  },
-  {
-    "chinese": "祝你一切顺利！",
-    "english": "Wish you all the best!",
-    "soundmark": "/wɪʃ/ /ju/ /ɔl/ /ðə/ /bɛst/"
+    "chinese": "如果你有任何问题，请随时告诉我。祝你一切顺利！",
+    "english": "If you have any questions, please feel free to let me know. Wish you all the best!",
+    "soundmark": "/ɪf/ /juː/ /hæv/ /ˈɛni/ /ˈkwɛsʧənz/, /pliz/ /fil/ /friː/ /tuː/ /lɛt/ /miː/ /noʊ/. /wɪʃ/ /juː/ /ɔːl/ /ðə/ /bɛst/"
   }
 ]
